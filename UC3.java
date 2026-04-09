@@ -15,4 +15,4 @@ public class TrainConsistManagementApp {
         System.out.println("Unique Bogie IDs:");
         System.out.println(bogieIDs);
     }
-}
+},
